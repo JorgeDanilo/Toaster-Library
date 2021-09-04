@@ -3,6 +3,10 @@ plugins {
     id 'maven-publish'
 }
 
+group='com.github.jitpack'
+version '1.0-SNAPSHOT'
+
+
 android {
     compileSdk 30
 
